@@ -1,1 +1,1 @@
-![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,oracle,kubernetes,awa,git,claude,gemini,genai)
+![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,aws,git,claude,gemini)
