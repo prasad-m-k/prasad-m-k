@@ -1,0 +1,85 @@
+<svg viewBox="0 0 640 900" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <!-- Pitch background -->
+  <rect x="0" y="0" width="640" height="900" fill="#2e7d32"/>
+  <rect x="0" y="0" width="640" height="900" fill="url(#stripes)"/>
+  <defs>
+    <pattern id="stripes" width="640" height="90" patternUnits="userSpaceOnUse">
+      <rect width="640" height="45" fill="#2e7d32"/>
+      <rect y="45" width="640" height="45" fill="#31872f"/>
+    </pattern>
+  </defs>
+
+  <!-- Outer boundary -->
+  <rect x="20" y="20" width="600" height="860" fill="none" stroke="white" stroke-width="3"/>
+  <!-- Halfway line -->
+  <line x1="20" y1="450" x2="620" y2="450" stroke="white" stroke-width="3"/>
+  <!-- Center circle -->
+  <circle cx="320" cy="450" r="70" fill="none" stroke="white" stroke-width="3"/>
+  <circle cx="320" cy="450" r="4" fill="white"/>
+
+  <!-- Top penalty box (attacking third) -->
+  <rect x="170" y="20" width="300" height="120" fill="none" stroke="white" stroke-width="3"/>
+  <rect x="250" y="20" width="140" height="50" fill="none" stroke="white" stroke-width="3"/>
+  <path d="M 250 140 A 70 70 0 0 0 390 140" fill="none" stroke="white" stroke-width="3"/>
+
+  <!-- Bottom penalty box (defending third) -->
+  <rect x="170" y="760" width="300" height="120" fill="none" stroke="white" stroke-width="3"/>
+  <rect x="250" y="830" width="140" height="50" fill="none" stroke="white" stroke-width="3"/>
+  <path d="M 250 760 A 70 70 0 0 1 390 760" fill="none" stroke="white" stroke-width="3"/>
+
+  <!-- Corner arcs -->
+  <path d="M 20 40 A 20 20 0 0 0 40 20" fill="none" stroke="white" stroke-width="2"/>
+  <path d="M 600 20 A 20 20 0 0 0 620 40" fill="none" stroke="white" stroke-width="2"/>
+  <path d="M 620 860 A 20 20 0 0 0 600 880" fill="none" stroke="white" stroke-width="2"/>
+  <path d="M 40 880 A 20 20 0 0 0 20 860" fill="none" stroke="white" stroke-width="2"/>
+
+  <!-- ===== FORWARDS (attacking third) ===== -->
+  <g font-size="15" font-weight="600" fill="#1b1b1b" text-anchor="middle">
+    <circle cx="140" cy="110" r="34" fill="#ffca28" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="140" y="116">Python</text>
+
+    <circle cx="320" cy="80" r="34" fill="#ffca28" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="320" y="86">GCP</text>
+
+    <circle cx="500" cy="110" r="34" fill="#ffca28" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="500" y="116">Go</text>
+  </g>
+
+  <!-- ===== MIDFIELD (build-up / control) ===== -->
+  <g font-size="14" font-weight="600" fill="#1b1b1b" text-anchor="middle">
+    <circle cx="160" cy="320" r="36" fill="#4fc3f7" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="160" y="316">Spring</text>
+    <text x="160" y="332">Boot</text>
+
+    <circle cx="320" cy="270" r="36" fill="#4fc3f7" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="320" y="276">Java</text>
+
+    <circle cx="480" cy="320" r="36" fill="#4fc3f7" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="480" y="326">Kafka</text>
+  </g>
+
+  <!-- ===== DEFENSE (infrastructure holds the line) ===== -->
+  <g font-size="13" font-weight="600" fill="#1b1b1b" text-anchor="middle">
+    <circle cx="110" cy="560" r="34" fill="#ef5350" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="110" y="558">AWS</text>
+
+    <circle cx="250" cy="590" r="34" fill="#ef5350" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="250" y="586">Azure</text>
+
+    <circle cx="390" cy="590" r="34" fill="#ef5350" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="390" y="584">K8s</text>
+
+    <circle cx="530" cy="560" r="34" fill="#ef5350" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="530" y="556">Terra-</text>
+    <text x="530" y="571">form</text>
+  </g>
+
+  <!-- ===== GOALKEEPER (version control, the last line) ===== -->
+  <g font-size="15" font-weight="600" fill="#1b1b1b" text-anchor="middle">
+    <circle cx="320" cy="800" r="38" fill="#ab47bc" stroke="#1b1b1b" stroke-width="2"/>
+    <text x="320" y="806">Git</text>
+  </g>
+
+  <!-- Formation label -->
+  <text x="320" y="45" font-size="20" font-weight="700" fill="white" text-anchor="middle" opacity="0.85">4-3-3</text>
+</svg>
