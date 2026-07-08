@@ -16,4 +16,3 @@ My stack, lined up in a 4-3-3. Attack up top with Python, GCP, and Go. Java, Spr
 
 ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-m-k&show_icons=true&theme=default)
 
-![My Skills](https://skillicons.dev/icons?i=python,go,java,spring,kafka,kubernetes,aws,gcp,azure,git,terraform)
