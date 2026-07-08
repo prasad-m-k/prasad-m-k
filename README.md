@@ -6,11 +6,7 @@ Solution Architect with 25+ years across software development, tooling, and clou
 
 ![My Skills](https://skillicons.dev/icons?i=python,go,java,spring,kafka,kubernetes,aws,gcp,azure,git,terraform)
 
-## Starting XI
-
-My stack, lined up in a 4-3-3. Attack up top with Python, GCP, and Go. Java, Spring Boot, and Kafka run the midfield. AWS, Azure, Kubernetes, and Terraform hold the back line. Git in goal, because nothing gets past version control.
-
-<img src="./pitch.svg" alt="Starting XI formation of my tech stack" width="500"/>
+<img src="./logo.png" />
 
 ## GitHub Stats
 
