@@ -8,7 +8,9 @@ Solution Architect/Tech Lead with 25+ years across software development, tooling
 
 <img src="./logo.png" />
 
+<!--
 ## GitHub Stats
 
 ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-m-k&show_icons=true&theme=default)
 
+-->
