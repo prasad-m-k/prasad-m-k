@@ -1,6 +1,6 @@
 # Hi, I'm Prasad!
 
-Technologist/Solution Architect/Tech Lead with 25+ years across software development, tooling, and cloud architecture. Currently building event-driven systems and authentication tech.
+Technologist/Solution Architect/Tech Lead with 25+ years of experience across software development, tooling, and cloud architecture. Currently building opensource AI tools, event-driven systems, APIs, CI/CD pipeline and authentication tech.
 
 ## Skills
 
